@@ -10,12 +10,12 @@
     "@bochilteam/scraper": "^5.0.1",
     "@myno_21/pinterest-scraper": "^1.0.4",
     "api-dylux": "^1.8.6",
-    "axios": "^1.7.2",
+    "axios": "^1.18.1",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "ruhend-scraper": "^10.0.3"
   },
   "devDependencies": {
-    "wrangler": "^3.57.1"
+    "wrangler": "^4.114.0"
   }
 }
